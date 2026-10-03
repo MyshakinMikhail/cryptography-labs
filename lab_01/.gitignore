@@ -1,0 +1,5 @@
+bin/
+obj/
+demo-artifacts/
+*.user
+*.suo
