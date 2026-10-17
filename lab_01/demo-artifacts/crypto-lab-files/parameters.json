@@ -1,0 +1,4202 @@
+[
+  {
+    "Algorithm": "DES",
+    "Mode": "Ecb",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Ecb_Zeros/sample.txt.enc",
+        "Restored": "restored/DES/Ecb_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Ecb_Zeros/sample.bmp.enc",
+        "Restored": "restored/DES/Ecb_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Ecb_Zeros/sample.wav.enc",
+        "Restored": "restored/DES/Ecb_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Ecb_Zeros/sample.avi.enc",
+        "Restored": "restored/DES/Ecb_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Ecb_Zeros/Example.cs.enc",
+        "Restored": "restored/DES/Ecb_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Ecb_Zeros/example.cpp.enc",
+        "Restored": "restored/DES/Ecb_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Ecb_Zeros/example.js.enc",
+        "Restored": "restored/DES/Ecb_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Ecb_Zeros/example.py.enc",
+        "Restored": "restored/DES/Ecb_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Ecb_Zeros/random.bin.enc",
+        "Restored": "restored/DES/Ecb_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ecb",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Ecb_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DES/Ecb_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Ecb_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DES/Ecb_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Ecb_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DES/Ecb_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Ecb_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DES/Ecb_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Ecb_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DES/Ecb_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Ecb_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DES/Ecb_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Ecb_AnsiX923/example.js.enc",
+        "Restored": "restored/DES/Ecb_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Ecb_AnsiX923/example.py.enc",
+        "Restored": "restored/DES/Ecb_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Ecb_AnsiX923/random.bin.enc",
+        "Restored": "restored/DES/Ecb_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ecb",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Ecb_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DES/Ecb_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Ecb_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DES/Ecb_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Ecb_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DES/Ecb_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Ecb_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DES/Ecb_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Ecb_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DES/Ecb_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Ecb_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DES/Ecb_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Ecb_Pkcs7/example.js.enc",
+        "Restored": "restored/DES/Ecb_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Ecb_Pkcs7/example.py.enc",
+        "Restored": "restored/DES/Ecb_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Ecb_Pkcs7/random.bin.enc",
+        "Restored": "restored/DES/Ecb_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ecb",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Ecb_Iso10126/sample.txt.enc",
+        "Restored": "restored/DES/Ecb_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Ecb_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DES/Ecb_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Ecb_Iso10126/sample.wav.enc",
+        "Restored": "restored/DES/Ecb_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Ecb_Iso10126/sample.avi.enc",
+        "Restored": "restored/DES/Ecb_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Ecb_Iso10126/Example.cs.enc",
+        "Restored": "restored/DES/Ecb_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Ecb_Iso10126/example.cpp.enc",
+        "Restored": "restored/DES/Ecb_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Ecb_Iso10126/example.js.enc",
+        "Restored": "restored/DES/Ecb_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Ecb_Iso10126/example.py.enc",
+        "Restored": "restored/DES/Ecb_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Ecb_Iso10126/random.bin.enc",
+        "Restored": "restored/DES/Ecb_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cbc",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "E06A8B353901AFF4",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Cbc_Zeros/sample.txt.enc",
+        "Restored": "restored/DES/Cbc_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Cbc_Zeros/sample.bmp.enc",
+        "Restored": "restored/DES/Cbc_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Cbc_Zeros/sample.wav.enc",
+        "Restored": "restored/DES/Cbc_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Cbc_Zeros/sample.avi.enc",
+        "Restored": "restored/DES/Cbc_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Cbc_Zeros/Example.cs.enc",
+        "Restored": "restored/DES/Cbc_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Cbc_Zeros/example.cpp.enc",
+        "Restored": "restored/DES/Cbc_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Cbc_Zeros/example.js.enc",
+        "Restored": "restored/DES/Cbc_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Cbc_Zeros/example.py.enc",
+        "Restored": "restored/DES/Cbc_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Cbc_Zeros/random.bin.enc",
+        "Restored": "restored/DES/Cbc_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cbc",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "3BF7DE83FA9B7458",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Cbc_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DES/Cbc_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Cbc_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DES/Cbc_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Cbc_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DES/Cbc_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Cbc_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DES/Cbc_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Cbc_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DES/Cbc_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Cbc_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DES/Cbc_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Cbc_AnsiX923/example.js.enc",
+        "Restored": "restored/DES/Cbc_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Cbc_AnsiX923/example.py.enc",
+        "Restored": "restored/DES/Cbc_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Cbc_AnsiX923/random.bin.enc",
+        "Restored": "restored/DES/Cbc_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cbc",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "5308F11088252BBA",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Cbc_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DES/Cbc_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Cbc_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DES/Cbc_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Cbc_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DES/Cbc_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Cbc_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DES/Cbc_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Cbc_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DES/Cbc_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Cbc_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DES/Cbc_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Cbc_Pkcs7/example.js.enc",
+        "Restored": "restored/DES/Cbc_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Cbc_Pkcs7/example.py.enc",
+        "Restored": "restored/DES/Cbc_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Cbc_Pkcs7/random.bin.enc",
+        "Restored": "restored/DES/Cbc_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cbc",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "BF5865E83AE83C45",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Cbc_Iso10126/sample.txt.enc",
+        "Restored": "restored/DES/Cbc_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Cbc_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DES/Cbc_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Cbc_Iso10126/sample.wav.enc",
+        "Restored": "restored/DES/Cbc_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Cbc_Iso10126/sample.avi.enc",
+        "Restored": "restored/DES/Cbc_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Cbc_Iso10126/Example.cs.enc",
+        "Restored": "restored/DES/Cbc_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Cbc_Iso10126/example.cpp.enc",
+        "Restored": "restored/DES/Cbc_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Cbc_Iso10126/example.js.enc",
+        "Restored": "restored/DES/Cbc_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Cbc_Iso10126/example.py.enc",
+        "Restored": "restored/DES/Cbc_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Cbc_Iso10126/random.bin.enc",
+        "Restored": "restored/DES/Cbc_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Pcbc",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "CFC2A7622BF06315",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Pcbc_Zeros/sample.txt.enc",
+        "Restored": "restored/DES/Pcbc_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Pcbc_Zeros/sample.bmp.enc",
+        "Restored": "restored/DES/Pcbc_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Pcbc_Zeros/sample.wav.enc",
+        "Restored": "restored/DES/Pcbc_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Pcbc_Zeros/sample.avi.enc",
+        "Restored": "restored/DES/Pcbc_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Pcbc_Zeros/Example.cs.enc",
+        "Restored": "restored/DES/Pcbc_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Pcbc_Zeros/example.cpp.enc",
+        "Restored": "restored/DES/Pcbc_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Pcbc_Zeros/example.js.enc",
+        "Restored": "restored/DES/Pcbc_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Pcbc_Zeros/example.py.enc",
+        "Restored": "restored/DES/Pcbc_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Pcbc_Zeros/random.bin.enc",
+        "Restored": "restored/DES/Pcbc_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Pcbc",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "B18067D36A3EC16A",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Pcbc_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DES/Pcbc_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Pcbc_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DES/Pcbc_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Pcbc_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DES/Pcbc_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Pcbc_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DES/Pcbc_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Pcbc_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DES/Pcbc_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Pcbc_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DES/Pcbc_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Pcbc_AnsiX923/example.js.enc",
+        "Restored": "restored/DES/Pcbc_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Pcbc_AnsiX923/example.py.enc",
+        "Restored": "restored/DES/Pcbc_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Pcbc_AnsiX923/random.bin.enc",
+        "Restored": "restored/DES/Pcbc_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Pcbc",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "AF485FC1DD0D07CE",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Pcbc_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DES/Pcbc_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Pcbc_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DES/Pcbc_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Pcbc_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DES/Pcbc_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Pcbc_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DES/Pcbc_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Pcbc_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DES/Pcbc_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Pcbc_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DES/Pcbc_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Pcbc_Pkcs7/example.js.enc",
+        "Restored": "restored/DES/Pcbc_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Pcbc_Pkcs7/example.py.enc",
+        "Restored": "restored/DES/Pcbc_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Pcbc_Pkcs7/random.bin.enc",
+        "Restored": "restored/DES/Pcbc_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Pcbc",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "5EE565CD20F51090",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Pcbc_Iso10126/sample.txt.enc",
+        "Restored": "restored/DES/Pcbc_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Pcbc_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DES/Pcbc_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Pcbc_Iso10126/sample.wav.enc",
+        "Restored": "restored/DES/Pcbc_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Pcbc_Iso10126/sample.avi.enc",
+        "Restored": "restored/DES/Pcbc_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Pcbc_Iso10126/Example.cs.enc",
+        "Restored": "restored/DES/Pcbc_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Pcbc_Iso10126/example.cpp.enc",
+        "Restored": "restored/DES/Pcbc_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Pcbc_Iso10126/example.js.enc",
+        "Restored": "restored/DES/Pcbc_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Pcbc_Iso10126/example.py.enc",
+        "Restored": "restored/DES/Pcbc_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Pcbc_Iso10126/random.bin.enc",
+        "Restored": "restored/DES/Pcbc_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cfb",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "B876D28FE61308A4",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Cfb_Zeros/sample.txt.enc",
+        "Restored": "restored/DES/Cfb_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Cfb_Zeros/sample.bmp.enc",
+        "Restored": "restored/DES/Cfb_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Cfb_Zeros/sample.wav.enc",
+        "Restored": "restored/DES/Cfb_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Cfb_Zeros/sample.avi.enc",
+        "Restored": "restored/DES/Cfb_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Cfb_Zeros/Example.cs.enc",
+        "Restored": "restored/DES/Cfb_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Cfb_Zeros/example.cpp.enc",
+        "Restored": "restored/DES/Cfb_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Cfb_Zeros/example.js.enc",
+        "Restored": "restored/DES/Cfb_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Cfb_Zeros/example.py.enc",
+        "Restored": "restored/DES/Cfb_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Cfb_Zeros/random.bin.enc",
+        "Restored": "restored/DES/Cfb_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cfb",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "3E6BF674AE9E21B9",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Cfb_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DES/Cfb_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Cfb_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DES/Cfb_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Cfb_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DES/Cfb_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Cfb_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DES/Cfb_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Cfb_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DES/Cfb_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Cfb_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DES/Cfb_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Cfb_AnsiX923/example.js.enc",
+        "Restored": "restored/DES/Cfb_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Cfb_AnsiX923/example.py.enc",
+        "Restored": "restored/DES/Cfb_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Cfb_AnsiX923/random.bin.enc",
+        "Restored": "restored/DES/Cfb_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cfb",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "93665EBAE8DDC84B",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Cfb_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DES/Cfb_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Cfb_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DES/Cfb_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Cfb_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DES/Cfb_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Cfb_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DES/Cfb_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Cfb_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DES/Cfb_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Cfb_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DES/Cfb_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Cfb_Pkcs7/example.js.enc",
+        "Restored": "restored/DES/Cfb_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Cfb_Pkcs7/example.py.enc",
+        "Restored": "restored/DES/Cfb_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Cfb_Pkcs7/random.bin.enc",
+        "Restored": "restored/DES/Cfb_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cfb",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "0284406A19470719",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Cfb_Iso10126/sample.txt.enc",
+        "Restored": "restored/DES/Cfb_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Cfb_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DES/Cfb_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Cfb_Iso10126/sample.wav.enc",
+        "Restored": "restored/DES/Cfb_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Cfb_Iso10126/sample.avi.enc",
+        "Restored": "restored/DES/Cfb_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Cfb_Iso10126/Example.cs.enc",
+        "Restored": "restored/DES/Cfb_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Cfb_Iso10126/example.cpp.enc",
+        "Restored": "restored/DES/Cfb_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Cfb_Iso10126/example.js.enc",
+        "Restored": "restored/DES/Cfb_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Cfb_Iso10126/example.py.enc",
+        "Restored": "restored/DES/Cfb_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Cfb_Iso10126/random.bin.enc",
+        "Restored": "restored/DES/Cfb_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ofb",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "A0F886BA4D802961",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Ofb_Zeros/sample.txt.enc",
+        "Restored": "restored/DES/Ofb_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Ofb_Zeros/sample.bmp.enc",
+        "Restored": "restored/DES/Ofb_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Ofb_Zeros/sample.wav.enc",
+        "Restored": "restored/DES/Ofb_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Ofb_Zeros/sample.avi.enc",
+        "Restored": "restored/DES/Ofb_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Ofb_Zeros/Example.cs.enc",
+        "Restored": "restored/DES/Ofb_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Ofb_Zeros/example.cpp.enc",
+        "Restored": "restored/DES/Ofb_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Ofb_Zeros/example.js.enc",
+        "Restored": "restored/DES/Ofb_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Ofb_Zeros/example.py.enc",
+        "Restored": "restored/DES/Ofb_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Ofb_Zeros/random.bin.enc",
+        "Restored": "restored/DES/Ofb_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ofb",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "5F6C9EF1478ECC4C",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Ofb_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DES/Ofb_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Ofb_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DES/Ofb_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Ofb_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DES/Ofb_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Ofb_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DES/Ofb_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Ofb_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DES/Ofb_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Ofb_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DES/Ofb_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Ofb_AnsiX923/example.js.enc",
+        "Restored": "restored/DES/Ofb_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Ofb_AnsiX923/example.py.enc",
+        "Restored": "restored/DES/Ofb_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Ofb_AnsiX923/random.bin.enc",
+        "Restored": "restored/DES/Ofb_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ofb",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "9264E71E6EB40781",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Ofb_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DES/Ofb_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Ofb_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DES/Ofb_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Ofb_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DES/Ofb_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Ofb_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DES/Ofb_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Ofb_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DES/Ofb_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Ofb_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DES/Ofb_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Ofb_Pkcs7/example.js.enc",
+        "Restored": "restored/DES/Ofb_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Ofb_Pkcs7/example.py.enc",
+        "Restored": "restored/DES/Ofb_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Ofb_Pkcs7/random.bin.enc",
+        "Restored": "restored/DES/Ofb_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ofb",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "7714B9E5CA3CA811",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Ofb_Iso10126/sample.txt.enc",
+        "Restored": "restored/DES/Ofb_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Ofb_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DES/Ofb_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Ofb_Iso10126/sample.wav.enc",
+        "Restored": "restored/DES/Ofb_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Ofb_Iso10126/sample.avi.enc",
+        "Restored": "restored/DES/Ofb_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Ofb_Iso10126/Example.cs.enc",
+        "Restored": "restored/DES/Ofb_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Ofb_Iso10126/example.cpp.enc",
+        "Restored": "restored/DES/Ofb_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Ofb_Iso10126/example.js.enc",
+        "Restored": "restored/DES/Ofb_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Ofb_Iso10126/example.py.enc",
+        "Restored": "restored/DES/Ofb_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Ofb_Iso10126/random.bin.enc",
+        "Restored": "restored/DES/Ofb_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ctr",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "B0235BE5B283D3AA",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Ctr_Zeros/sample.txt.enc",
+        "Restored": "restored/DES/Ctr_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Ctr_Zeros/sample.bmp.enc",
+        "Restored": "restored/DES/Ctr_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Ctr_Zeros/sample.wav.enc",
+        "Restored": "restored/DES/Ctr_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Ctr_Zeros/sample.avi.enc",
+        "Restored": "restored/DES/Ctr_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Ctr_Zeros/Example.cs.enc",
+        "Restored": "restored/DES/Ctr_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Ctr_Zeros/example.cpp.enc",
+        "Restored": "restored/DES/Ctr_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Ctr_Zeros/example.js.enc",
+        "Restored": "restored/DES/Ctr_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Ctr_Zeros/example.py.enc",
+        "Restored": "restored/DES/Ctr_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Ctr_Zeros/random.bin.enc",
+        "Restored": "restored/DES/Ctr_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ctr",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "75AC5772F613A956",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Ctr_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DES/Ctr_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Ctr_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DES/Ctr_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Ctr_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DES/Ctr_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Ctr_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DES/Ctr_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Ctr_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DES/Ctr_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Ctr_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DES/Ctr_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Ctr_AnsiX923/example.js.enc",
+        "Restored": "restored/DES/Ctr_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Ctr_AnsiX923/example.py.enc",
+        "Restored": "restored/DES/Ctr_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Ctr_AnsiX923/random.bin.enc",
+        "Restored": "restored/DES/Ctr_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ctr",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "04D6BD8BBEEA07F3",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Ctr_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DES/Ctr_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Ctr_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DES/Ctr_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Ctr_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DES/Ctr_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Ctr_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DES/Ctr_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Ctr_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DES/Ctr_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Ctr_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DES/Ctr_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Ctr_Pkcs7/example.js.enc",
+        "Restored": "restored/DES/Ctr_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Ctr_Pkcs7/example.py.enc",
+        "Restored": "restored/DES/Ctr_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Ctr_Pkcs7/random.bin.enc",
+        "Restored": "restored/DES/Ctr_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ctr",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "9D16936E0268FB9C",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/Ctr_Iso10126/sample.txt.enc",
+        "Restored": "restored/DES/Ctr_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/Ctr_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DES/Ctr_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/Ctr_Iso10126/sample.wav.enc",
+        "Restored": "restored/DES/Ctr_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/Ctr_Iso10126/sample.avi.enc",
+        "Restored": "restored/DES/Ctr_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/Ctr_Iso10126/Example.cs.enc",
+        "Restored": "restored/DES/Ctr_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/Ctr_Iso10126/example.cpp.enc",
+        "Restored": "restored/DES/Ctr_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/Ctr_Iso10126/example.js.enc",
+        "Restored": "restored/DES/Ctr_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/Ctr_Iso10126/example.py.enc",
+        "Restored": "restored/DES/Ctr_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/Ctr_Iso10126/random.bin.enc",
+        "Restored": "restored/DES/Ctr_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "RandomDelta",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "B59563EFA011868A",
+    "DeltaHex": "A46331E792FCB07D",
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/RandomDelta_Zeros/sample.txt.enc",
+        "Restored": "restored/DES/RandomDelta_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/RandomDelta_Zeros/sample.bmp.enc",
+        "Restored": "restored/DES/RandomDelta_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/RandomDelta_Zeros/sample.wav.enc",
+        "Restored": "restored/DES/RandomDelta_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/RandomDelta_Zeros/sample.avi.enc",
+        "Restored": "restored/DES/RandomDelta_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/RandomDelta_Zeros/Example.cs.enc",
+        "Restored": "restored/DES/RandomDelta_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/RandomDelta_Zeros/example.cpp.enc",
+        "Restored": "restored/DES/RandomDelta_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/RandomDelta_Zeros/example.js.enc",
+        "Restored": "restored/DES/RandomDelta_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/RandomDelta_Zeros/example.py.enc",
+        "Restored": "restored/DES/RandomDelta_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/RandomDelta_Zeros/random.bin.enc",
+        "Restored": "restored/DES/RandomDelta_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "RandomDelta",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "8A2397436AF9FE9C",
+    "DeltaHex": "DB2011B9C02A62A1",
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/RandomDelta_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DES/RandomDelta_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/RandomDelta_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DES/RandomDelta_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/RandomDelta_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DES/RandomDelta_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/RandomDelta_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DES/RandomDelta_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/RandomDelta_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DES/RandomDelta_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/RandomDelta_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DES/RandomDelta_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/RandomDelta_AnsiX923/example.js.enc",
+        "Restored": "restored/DES/RandomDelta_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/RandomDelta_AnsiX923/example.py.enc",
+        "Restored": "restored/DES/RandomDelta_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/RandomDelta_AnsiX923/random.bin.enc",
+        "Restored": "restored/DES/RandomDelta_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "RandomDelta",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "BE1AF810DB5B2E8B",
+    "DeltaHex": "8F08C99E37130A7D",
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/RandomDelta_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DES/RandomDelta_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/RandomDelta_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DES/RandomDelta_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/RandomDelta_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DES/RandomDelta_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/RandomDelta_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DES/RandomDelta_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/RandomDelta_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DES/RandomDelta_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/RandomDelta_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DES/RandomDelta_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/RandomDelta_Pkcs7/example.js.enc",
+        "Restored": "restored/DES/RandomDelta_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/RandomDelta_Pkcs7/example.py.enc",
+        "Restored": "restored/DES/RandomDelta_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/RandomDelta_Pkcs7/random.bin.enc",
+        "Restored": "restored/DES/RandomDelta_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "RandomDelta",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "54AD526E080DFBBB",
+    "DeltaHex": "97C7147FFFCDCA7B",
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DES/RandomDelta_Iso10126/sample.txt.enc",
+        "Restored": "restored/DES/RandomDelta_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DES/RandomDelta_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DES/RandomDelta_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DES/RandomDelta_Iso10126/sample.wav.enc",
+        "Restored": "restored/DES/RandomDelta_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DES/RandomDelta_Iso10126/sample.avi.enc",
+        "Restored": "restored/DES/RandomDelta_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DES/RandomDelta_Iso10126/Example.cs.enc",
+        "Restored": "restored/DES/RandomDelta_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DES/RandomDelta_Iso10126/example.cpp.enc",
+        "Restored": "restored/DES/RandomDelta_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DES/RandomDelta_Iso10126/example.js.enc",
+        "Restored": "restored/DES/RandomDelta_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DES/RandomDelta_Iso10126/example.py.enc",
+        "Restored": "restored/DES/RandomDelta_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DES/RandomDelta_Iso10126/random.bin.enc",
+        "Restored": "restored/DES/RandomDelta_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ecb",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Ecb_Zeros/sample.txt.enc",
+        "Restored": "restored/DEAL/Ecb_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Ecb_Zeros/sample.bmp.enc",
+        "Restored": "restored/DEAL/Ecb_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Ecb_Zeros/sample.wav.enc",
+        "Restored": "restored/DEAL/Ecb_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Ecb_Zeros/sample.avi.enc",
+        "Restored": "restored/DEAL/Ecb_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Ecb_Zeros/Example.cs.enc",
+        "Restored": "restored/DEAL/Ecb_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Ecb_Zeros/example.cpp.enc",
+        "Restored": "restored/DEAL/Ecb_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Ecb_Zeros/example.js.enc",
+        "Restored": "restored/DEAL/Ecb_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Ecb_Zeros/example.py.enc",
+        "Restored": "restored/DEAL/Ecb_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Ecb_Zeros/random.bin.enc",
+        "Restored": "restored/DEAL/Ecb_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ecb",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Ecb_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DEAL/Ecb_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Ecb_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DEAL/Ecb_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Ecb_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DEAL/Ecb_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Ecb_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DEAL/Ecb_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Ecb_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DEAL/Ecb_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Ecb_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DEAL/Ecb_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Ecb_AnsiX923/example.js.enc",
+        "Restored": "restored/DEAL/Ecb_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Ecb_AnsiX923/example.py.enc",
+        "Restored": "restored/DEAL/Ecb_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Ecb_AnsiX923/random.bin.enc",
+        "Restored": "restored/DEAL/Ecb_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ecb",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Ecb_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DEAL/Ecb_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Ecb_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DEAL/Ecb_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Ecb_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DEAL/Ecb_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Ecb_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DEAL/Ecb_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Ecb_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DEAL/Ecb_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Ecb_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DEAL/Ecb_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Ecb_Pkcs7/example.js.enc",
+        "Restored": "restored/DEAL/Ecb_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Ecb_Pkcs7/example.py.enc",
+        "Restored": "restored/DEAL/Ecb_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Ecb_Pkcs7/random.bin.enc",
+        "Restored": "restored/DEAL/Ecb_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ecb",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Ecb_Iso10126/sample.txt.enc",
+        "Restored": "restored/DEAL/Ecb_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Ecb_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DEAL/Ecb_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Ecb_Iso10126/sample.wav.enc",
+        "Restored": "restored/DEAL/Ecb_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Ecb_Iso10126/sample.avi.enc",
+        "Restored": "restored/DEAL/Ecb_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Ecb_Iso10126/Example.cs.enc",
+        "Restored": "restored/DEAL/Ecb_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Ecb_Iso10126/example.cpp.enc",
+        "Restored": "restored/DEAL/Ecb_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Ecb_Iso10126/example.js.enc",
+        "Restored": "restored/DEAL/Ecb_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Ecb_Iso10126/example.py.enc",
+        "Restored": "restored/DEAL/Ecb_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Ecb_Iso10126/random.bin.enc",
+        "Restored": "restored/DEAL/Ecb_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cbc",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "21837B471FEE1106CA0E8A63CF9FD4C0",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Cbc_Zeros/sample.txt.enc",
+        "Restored": "restored/DEAL/Cbc_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Cbc_Zeros/sample.bmp.enc",
+        "Restored": "restored/DEAL/Cbc_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Cbc_Zeros/sample.wav.enc",
+        "Restored": "restored/DEAL/Cbc_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Cbc_Zeros/sample.avi.enc",
+        "Restored": "restored/DEAL/Cbc_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Cbc_Zeros/Example.cs.enc",
+        "Restored": "restored/DEAL/Cbc_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Cbc_Zeros/example.cpp.enc",
+        "Restored": "restored/DEAL/Cbc_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Cbc_Zeros/example.js.enc",
+        "Restored": "restored/DEAL/Cbc_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Cbc_Zeros/example.py.enc",
+        "Restored": "restored/DEAL/Cbc_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Cbc_Zeros/random.bin.enc",
+        "Restored": "restored/DEAL/Cbc_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cbc",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "99E8972E714B3A33C00F1ACA639B8FF9",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Cbc_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DEAL/Cbc_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Cbc_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DEAL/Cbc_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Cbc_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DEAL/Cbc_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Cbc_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DEAL/Cbc_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Cbc_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DEAL/Cbc_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Cbc_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DEAL/Cbc_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Cbc_AnsiX923/example.js.enc",
+        "Restored": "restored/DEAL/Cbc_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Cbc_AnsiX923/example.py.enc",
+        "Restored": "restored/DEAL/Cbc_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Cbc_AnsiX923/random.bin.enc",
+        "Restored": "restored/DEAL/Cbc_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cbc",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "7588C9E608A64FB01E1BA78D8DDEE899",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Cbc_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DEAL/Cbc_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Cbc_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DEAL/Cbc_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Cbc_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DEAL/Cbc_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Cbc_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DEAL/Cbc_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Cbc_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DEAL/Cbc_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Cbc_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DEAL/Cbc_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Cbc_Pkcs7/example.js.enc",
+        "Restored": "restored/DEAL/Cbc_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Cbc_Pkcs7/example.py.enc",
+        "Restored": "restored/DEAL/Cbc_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Cbc_Pkcs7/random.bin.enc",
+        "Restored": "restored/DEAL/Cbc_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cbc",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "7E9354DAD1A9F022258594013A3EEBFC",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Cbc_Iso10126/sample.txt.enc",
+        "Restored": "restored/DEAL/Cbc_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Cbc_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DEAL/Cbc_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Cbc_Iso10126/sample.wav.enc",
+        "Restored": "restored/DEAL/Cbc_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Cbc_Iso10126/sample.avi.enc",
+        "Restored": "restored/DEAL/Cbc_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Cbc_Iso10126/Example.cs.enc",
+        "Restored": "restored/DEAL/Cbc_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Cbc_Iso10126/example.cpp.enc",
+        "Restored": "restored/DEAL/Cbc_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Cbc_Iso10126/example.js.enc",
+        "Restored": "restored/DEAL/Cbc_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Cbc_Iso10126/example.py.enc",
+        "Restored": "restored/DEAL/Cbc_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Cbc_Iso10126/random.bin.enc",
+        "Restored": "restored/DEAL/Cbc_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Pcbc",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "08210EF9890DC7E4E5ECDC8750E27DDF",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Pcbc_Zeros/sample.txt.enc",
+        "Restored": "restored/DEAL/Pcbc_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Pcbc_Zeros/sample.bmp.enc",
+        "Restored": "restored/DEAL/Pcbc_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Pcbc_Zeros/sample.wav.enc",
+        "Restored": "restored/DEAL/Pcbc_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Pcbc_Zeros/sample.avi.enc",
+        "Restored": "restored/DEAL/Pcbc_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Pcbc_Zeros/Example.cs.enc",
+        "Restored": "restored/DEAL/Pcbc_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Pcbc_Zeros/example.cpp.enc",
+        "Restored": "restored/DEAL/Pcbc_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Pcbc_Zeros/example.js.enc",
+        "Restored": "restored/DEAL/Pcbc_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Pcbc_Zeros/example.py.enc",
+        "Restored": "restored/DEAL/Pcbc_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Pcbc_Zeros/random.bin.enc",
+        "Restored": "restored/DEAL/Pcbc_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Pcbc",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "0EAFF9192FF1723AB08D643DB2F240C1",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Pcbc_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DEAL/Pcbc_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Pcbc_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DEAL/Pcbc_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Pcbc_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DEAL/Pcbc_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Pcbc_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DEAL/Pcbc_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Pcbc_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DEAL/Pcbc_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Pcbc_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DEAL/Pcbc_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Pcbc_AnsiX923/example.js.enc",
+        "Restored": "restored/DEAL/Pcbc_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Pcbc_AnsiX923/example.py.enc",
+        "Restored": "restored/DEAL/Pcbc_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Pcbc_AnsiX923/random.bin.enc",
+        "Restored": "restored/DEAL/Pcbc_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Pcbc",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "1BC479A0E864AF40E5C01039641E3C27",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Pcbc_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DEAL/Pcbc_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Pcbc_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DEAL/Pcbc_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Pcbc_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DEAL/Pcbc_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Pcbc_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DEAL/Pcbc_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Pcbc_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DEAL/Pcbc_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Pcbc_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DEAL/Pcbc_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Pcbc_Pkcs7/example.js.enc",
+        "Restored": "restored/DEAL/Pcbc_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Pcbc_Pkcs7/example.py.enc",
+        "Restored": "restored/DEAL/Pcbc_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Pcbc_Pkcs7/random.bin.enc",
+        "Restored": "restored/DEAL/Pcbc_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Pcbc",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "898521EE78A0D93139781451A5E4D9A5",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Pcbc_Iso10126/sample.txt.enc",
+        "Restored": "restored/DEAL/Pcbc_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Pcbc_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DEAL/Pcbc_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Pcbc_Iso10126/sample.wav.enc",
+        "Restored": "restored/DEAL/Pcbc_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Pcbc_Iso10126/sample.avi.enc",
+        "Restored": "restored/DEAL/Pcbc_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Pcbc_Iso10126/Example.cs.enc",
+        "Restored": "restored/DEAL/Pcbc_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Pcbc_Iso10126/example.cpp.enc",
+        "Restored": "restored/DEAL/Pcbc_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Pcbc_Iso10126/example.js.enc",
+        "Restored": "restored/DEAL/Pcbc_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Pcbc_Iso10126/example.py.enc",
+        "Restored": "restored/DEAL/Pcbc_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Pcbc_Iso10126/random.bin.enc",
+        "Restored": "restored/DEAL/Pcbc_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cfb",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "5D67AFDFFD4DAFE29BF9BDD5C2B4B1AD",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Cfb_Zeros/sample.txt.enc",
+        "Restored": "restored/DEAL/Cfb_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Cfb_Zeros/sample.bmp.enc",
+        "Restored": "restored/DEAL/Cfb_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Cfb_Zeros/sample.wav.enc",
+        "Restored": "restored/DEAL/Cfb_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Cfb_Zeros/sample.avi.enc",
+        "Restored": "restored/DEAL/Cfb_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Cfb_Zeros/Example.cs.enc",
+        "Restored": "restored/DEAL/Cfb_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Cfb_Zeros/example.cpp.enc",
+        "Restored": "restored/DEAL/Cfb_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Cfb_Zeros/example.js.enc",
+        "Restored": "restored/DEAL/Cfb_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Cfb_Zeros/example.py.enc",
+        "Restored": "restored/DEAL/Cfb_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Cfb_Zeros/random.bin.enc",
+        "Restored": "restored/DEAL/Cfb_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cfb",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "49DBF43E34FAA8960960C6E34FBC8309",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Cfb_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DEAL/Cfb_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Cfb_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DEAL/Cfb_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Cfb_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DEAL/Cfb_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Cfb_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DEAL/Cfb_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Cfb_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DEAL/Cfb_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Cfb_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DEAL/Cfb_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Cfb_AnsiX923/example.js.enc",
+        "Restored": "restored/DEAL/Cfb_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Cfb_AnsiX923/example.py.enc",
+        "Restored": "restored/DEAL/Cfb_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Cfb_AnsiX923/random.bin.enc",
+        "Restored": "restored/DEAL/Cfb_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cfb",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "D7238BE6C07378E607944F093BE82D36",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Cfb_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DEAL/Cfb_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Cfb_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DEAL/Cfb_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Cfb_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DEAL/Cfb_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Cfb_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DEAL/Cfb_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Cfb_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DEAL/Cfb_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Cfb_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DEAL/Cfb_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Cfb_Pkcs7/example.js.enc",
+        "Restored": "restored/DEAL/Cfb_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Cfb_Pkcs7/example.py.enc",
+        "Restored": "restored/DEAL/Cfb_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Cfb_Pkcs7/random.bin.enc",
+        "Restored": "restored/DEAL/Cfb_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cfb",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "0FD50B2B319C49FCE86659E085C420B3",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Cfb_Iso10126/sample.txt.enc",
+        "Restored": "restored/DEAL/Cfb_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Cfb_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DEAL/Cfb_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Cfb_Iso10126/sample.wav.enc",
+        "Restored": "restored/DEAL/Cfb_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Cfb_Iso10126/sample.avi.enc",
+        "Restored": "restored/DEAL/Cfb_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Cfb_Iso10126/Example.cs.enc",
+        "Restored": "restored/DEAL/Cfb_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Cfb_Iso10126/example.cpp.enc",
+        "Restored": "restored/DEAL/Cfb_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Cfb_Iso10126/example.js.enc",
+        "Restored": "restored/DEAL/Cfb_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Cfb_Iso10126/example.py.enc",
+        "Restored": "restored/DEAL/Cfb_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Cfb_Iso10126/random.bin.enc",
+        "Restored": "restored/DEAL/Cfb_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ofb",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "1A9FF965DC0105BCDEE948F76843EE47",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Ofb_Zeros/sample.txt.enc",
+        "Restored": "restored/DEAL/Ofb_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Ofb_Zeros/sample.bmp.enc",
+        "Restored": "restored/DEAL/Ofb_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Ofb_Zeros/sample.wav.enc",
+        "Restored": "restored/DEAL/Ofb_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Ofb_Zeros/sample.avi.enc",
+        "Restored": "restored/DEAL/Ofb_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Ofb_Zeros/Example.cs.enc",
+        "Restored": "restored/DEAL/Ofb_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Ofb_Zeros/example.cpp.enc",
+        "Restored": "restored/DEAL/Ofb_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Ofb_Zeros/example.js.enc",
+        "Restored": "restored/DEAL/Ofb_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Ofb_Zeros/example.py.enc",
+        "Restored": "restored/DEAL/Ofb_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Ofb_Zeros/random.bin.enc",
+        "Restored": "restored/DEAL/Ofb_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ofb",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "8FD9C6E5CABAD603AF0B1689D59BAEBB",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Ofb_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DEAL/Ofb_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Ofb_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DEAL/Ofb_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Ofb_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DEAL/Ofb_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Ofb_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DEAL/Ofb_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Ofb_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DEAL/Ofb_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Ofb_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DEAL/Ofb_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Ofb_AnsiX923/example.js.enc",
+        "Restored": "restored/DEAL/Ofb_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Ofb_AnsiX923/example.py.enc",
+        "Restored": "restored/DEAL/Ofb_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Ofb_AnsiX923/random.bin.enc",
+        "Restored": "restored/DEAL/Ofb_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ofb",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "BCD6688F7D087CBE19F9A9B36EB31BA7",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Ofb_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DEAL/Ofb_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Ofb_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DEAL/Ofb_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Ofb_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DEAL/Ofb_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Ofb_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DEAL/Ofb_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Ofb_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DEAL/Ofb_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Ofb_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DEAL/Ofb_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Ofb_Pkcs7/example.js.enc",
+        "Restored": "restored/DEAL/Ofb_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Ofb_Pkcs7/example.py.enc",
+        "Restored": "restored/DEAL/Ofb_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Ofb_Pkcs7/random.bin.enc",
+        "Restored": "restored/DEAL/Ofb_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ofb",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "1259CDFE331E3D2015F1C57FD40D25AF",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Ofb_Iso10126/sample.txt.enc",
+        "Restored": "restored/DEAL/Ofb_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Ofb_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DEAL/Ofb_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Ofb_Iso10126/sample.wav.enc",
+        "Restored": "restored/DEAL/Ofb_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Ofb_Iso10126/sample.avi.enc",
+        "Restored": "restored/DEAL/Ofb_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Ofb_Iso10126/Example.cs.enc",
+        "Restored": "restored/DEAL/Ofb_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Ofb_Iso10126/example.cpp.enc",
+        "Restored": "restored/DEAL/Ofb_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Ofb_Iso10126/example.js.enc",
+        "Restored": "restored/DEAL/Ofb_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Ofb_Iso10126/example.py.enc",
+        "Restored": "restored/DEAL/Ofb_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Ofb_Iso10126/random.bin.enc",
+        "Restored": "restored/DEAL/Ofb_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ctr",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "CAE6A015E51C742833CF1B7F88793B0A",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Ctr_Zeros/sample.txt.enc",
+        "Restored": "restored/DEAL/Ctr_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Ctr_Zeros/sample.bmp.enc",
+        "Restored": "restored/DEAL/Ctr_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Ctr_Zeros/sample.wav.enc",
+        "Restored": "restored/DEAL/Ctr_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Ctr_Zeros/sample.avi.enc",
+        "Restored": "restored/DEAL/Ctr_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Ctr_Zeros/Example.cs.enc",
+        "Restored": "restored/DEAL/Ctr_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Ctr_Zeros/example.cpp.enc",
+        "Restored": "restored/DEAL/Ctr_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Ctr_Zeros/example.js.enc",
+        "Restored": "restored/DEAL/Ctr_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Ctr_Zeros/example.py.enc",
+        "Restored": "restored/DEAL/Ctr_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Ctr_Zeros/random.bin.enc",
+        "Restored": "restored/DEAL/Ctr_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ctr",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "CA9AB4ED6D10C9D006772F2CACCCE564",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Ctr_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DEAL/Ctr_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Ctr_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DEAL/Ctr_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Ctr_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DEAL/Ctr_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Ctr_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DEAL/Ctr_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Ctr_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DEAL/Ctr_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Ctr_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DEAL/Ctr_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Ctr_AnsiX923/example.js.enc",
+        "Restored": "restored/DEAL/Ctr_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Ctr_AnsiX923/example.py.enc",
+        "Restored": "restored/DEAL/Ctr_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Ctr_AnsiX923/random.bin.enc",
+        "Restored": "restored/DEAL/Ctr_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ctr",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "34C1B5EEC44E9CFB090414D79B9A9E41",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Ctr_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DEAL/Ctr_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Ctr_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DEAL/Ctr_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Ctr_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DEAL/Ctr_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Ctr_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DEAL/Ctr_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Ctr_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DEAL/Ctr_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Ctr_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DEAL/Ctr_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Ctr_Pkcs7/example.js.enc",
+        "Restored": "restored/DEAL/Ctr_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Ctr_Pkcs7/example.py.enc",
+        "Restored": "restored/DEAL/Ctr_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Ctr_Pkcs7/random.bin.enc",
+        "Restored": "restored/DEAL/Ctr_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ctr",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "F6EDF8EA17F6A0CDCF44A9E1F6046485",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/Ctr_Iso10126/sample.txt.enc",
+        "Restored": "restored/DEAL/Ctr_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/Ctr_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DEAL/Ctr_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/Ctr_Iso10126/sample.wav.enc",
+        "Restored": "restored/DEAL/Ctr_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/Ctr_Iso10126/sample.avi.enc",
+        "Restored": "restored/DEAL/Ctr_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/Ctr_Iso10126/Example.cs.enc",
+        "Restored": "restored/DEAL/Ctr_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/Ctr_Iso10126/example.cpp.enc",
+        "Restored": "restored/DEAL/Ctr_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/Ctr_Iso10126/example.js.enc",
+        "Restored": "restored/DEAL/Ctr_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/Ctr_Iso10126/example.py.enc",
+        "Restored": "restored/DEAL/Ctr_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/Ctr_Iso10126/random.bin.enc",
+        "Restored": "restored/DEAL/Ctr_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "RandomDelta",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "2FA7E0ADA2B329821BF26A6D3E92C9B9",
+    "DeltaHex": "50496042359594B05EAC9D21C6914E4B",
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Zeros/sample.txt.enc",
+        "Restored": "restored/DEAL/RandomDelta_Zeros/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Zeros/sample.bmp.enc",
+        "Restored": "restored/DEAL/RandomDelta_Zeros/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Zeros/sample.wav.enc",
+        "Restored": "restored/DEAL/RandomDelta_Zeros/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Zeros/sample.avi.enc",
+        "Restored": "restored/DEAL/RandomDelta_Zeros/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Zeros/Example.cs.enc",
+        "Restored": "restored/DEAL/RandomDelta_Zeros/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Zeros/example.cpp.enc",
+        "Restored": "restored/DEAL/RandomDelta_Zeros/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Zeros/example.js.enc",
+        "Restored": "restored/DEAL/RandomDelta_Zeros/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Zeros/example.py.enc",
+        "Restored": "restored/DEAL/RandomDelta_Zeros/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Zeros/random.bin.enc",
+        "Restored": "restored/DEAL/RandomDelta_Zeros/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "RandomDelta",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "52E3B24F24B6E2039C8A24E7DB210DBA",
+    "DeltaHex": "2C77BE3624B09099122F4EF51608BC8B",
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/RandomDelta_AnsiX923/sample.txt.enc",
+        "Restored": "restored/DEAL/RandomDelta_AnsiX923/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/RandomDelta_AnsiX923/sample.bmp.enc",
+        "Restored": "restored/DEAL/RandomDelta_AnsiX923/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/RandomDelta_AnsiX923/sample.wav.enc",
+        "Restored": "restored/DEAL/RandomDelta_AnsiX923/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/RandomDelta_AnsiX923/sample.avi.enc",
+        "Restored": "restored/DEAL/RandomDelta_AnsiX923/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/RandomDelta_AnsiX923/Example.cs.enc",
+        "Restored": "restored/DEAL/RandomDelta_AnsiX923/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/RandomDelta_AnsiX923/example.cpp.enc",
+        "Restored": "restored/DEAL/RandomDelta_AnsiX923/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/RandomDelta_AnsiX923/example.js.enc",
+        "Restored": "restored/DEAL/RandomDelta_AnsiX923/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/RandomDelta_AnsiX923/example.py.enc",
+        "Restored": "restored/DEAL/RandomDelta_AnsiX923/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/RandomDelta_AnsiX923/random.bin.enc",
+        "Restored": "restored/DEAL/RandomDelta_AnsiX923/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "RandomDelta",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "A41F1B5BE079949A665DA5AA71ADD53D",
+    "DeltaHex": "9FE3F44FD21726A252183DF567EDEC95",
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Pkcs7/sample.txt.enc",
+        "Restored": "restored/DEAL/RandomDelta_Pkcs7/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Pkcs7/sample.bmp.enc",
+        "Restored": "restored/DEAL/RandomDelta_Pkcs7/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Pkcs7/sample.wav.enc",
+        "Restored": "restored/DEAL/RandomDelta_Pkcs7/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Pkcs7/sample.avi.enc",
+        "Restored": "restored/DEAL/RandomDelta_Pkcs7/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Pkcs7/Example.cs.enc",
+        "Restored": "restored/DEAL/RandomDelta_Pkcs7/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Pkcs7/example.cpp.enc",
+        "Restored": "restored/DEAL/RandomDelta_Pkcs7/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Pkcs7/example.js.enc",
+        "Restored": "restored/DEAL/RandomDelta_Pkcs7/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Pkcs7/example.py.enc",
+        "Restored": "restored/DEAL/RandomDelta_Pkcs7/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Pkcs7/random.bin.enc",
+        "Restored": "restored/DEAL/RandomDelta_Pkcs7/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "RandomDelta",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "CE9942BB05B2D9B3E224D0C60AE52864",
+    "DeltaHex": "5A115633146CB78CF87908C83C9E3279",
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Original": "originals/sample.txt",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Iso10126/sample.txt.enc",
+        "Restored": "restored/DEAL/RandomDelta_Iso10126/sample.txt",
+        "OriginalLength": 101,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.bmp",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Iso10126/sample.bmp.enc",
+        "Restored": "restored/DEAL/RandomDelta_Iso10126/sample.bmp",
+        "OriginalLength": 2358,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.wav",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Iso10126/sample.wav.enc",
+        "Restored": "restored/DEAL/RandomDelta_Iso10126/sample.wav",
+        "OriginalLength": 32044,
+        "Identical": true
+      },
+      {
+        "Original": "originals/sample.avi",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Iso10126/sample.avi.enc",
+        "Restored": "restored/DEAL/RandomDelta_Iso10126/sample.avi",
+        "OriginalLength": 6568,
+        "Identical": true
+      },
+      {
+        "Original": "originals/Example.cs",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Iso10126/Example.cs.enc",
+        "Restored": "restored/DEAL/RandomDelta_Iso10126/Example.cs",
+        "OriginalLength": 552,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.cpp",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Iso10126/example.cpp.enc",
+        "Restored": "restored/DEAL/RandomDelta_Iso10126/example.cpp",
+        "OriginalLength": 540,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.js",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Iso10126/example.js.enc",
+        "Restored": "restored/DEAL/RandomDelta_Iso10126/example.js",
+        "OriginalLength": 411,
+        "Identical": true
+      },
+      {
+        "Original": "originals/example.py",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Iso10126/example.py.enc",
+        "Restored": "restored/DEAL/RandomDelta_Iso10126/example.py",
+        "OriginalLength": 252,
+        "Identical": true
+      },
+      {
+        "Original": "originals/random.bin",
+        "Encrypted": "encrypted/DEAL/RandomDelta_Iso10126/random.bin.enc",
+        "Restored": "restored/DEAL/RandomDelta_Iso10126/random.bin",
+        "OriginalLength": 257,
+        "Identical": true
+      }
+    ]
+  }
+]

@@ -7,5 +7,7 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="../CryptoLab.csproj" />
+    <Compile Remove="SourceSamples/**/*.cs" />
+    <Content Include="SourceSamples/**/*" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 </Project>

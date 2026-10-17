@@ -3,6 +3,8 @@ using CryptoLab;
 Run("1.1: перестановка битов", CheckPermutation);
 Run("1.3: сеть Фейстеля", CheckFeistel);
 Run("1.4: DES", CheckDes);
+await LabChecks.RunAsync();
+if (!args.Contains("--test")) await Demonstrations.RunAsync(args);
 Console.WriteLine("Все проверки пройдены.");
 
 static void Run(string name, Action check)

@@ -1,0 +1,21 @@
+{
+  "WavDurationSeconds": 30,
+  "M4aDurationSeconds": 30,
+  "M4aFullyDecoded": true,
+  "PcmChecks": [
+    {
+      "File": "music-30s.wav",
+      "DurationSeconds": 30,
+      "Channels": 2,
+      "SampleRate": 44100,
+      "Rms": 6543.51
+    },
+    {
+      "File": "decoded.wav",
+      "DurationSeconds": 30,
+      "Channels": 2,
+      "SampleRate": 44100,
+      "Rms": 6542.11
+    }
+  ]
+}

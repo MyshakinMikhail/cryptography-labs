@@ -1,0 +1,2634 @@
+[
+  {
+    "Algorithm": "DES",
+    "Mode": "Ecb",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Ecb_Zeros/1_sample.txt.enc",
+        "Restored": "DES/Ecb_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Ecb_Zeros/2_sample.cs.enc",
+        "Restored": "DES/Ecb_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Ecb_Zeros/3_sample.bmp.enc",
+        "Restored": "DES/Ecb_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Ecb_Zeros/4_sample.wav.enc",
+        "Restored": "DES/Ecb_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Ecb_Zeros/5_sample.avi.enc",
+        "Restored": "DES/Ecb_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ecb",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Ecb_AnsiX923/1_sample.txt.enc",
+        "Restored": "DES/Ecb_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Ecb_AnsiX923/2_sample.cs.enc",
+        "Restored": "DES/Ecb_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Ecb_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DES/Ecb_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Ecb_AnsiX923/4_sample.wav.enc",
+        "Restored": "DES/Ecb_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Ecb_AnsiX923/5_sample.avi.enc",
+        "Restored": "DES/Ecb_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ecb",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Ecb_Pkcs7/1_sample.txt.enc",
+        "Restored": "DES/Ecb_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Ecb_Pkcs7/2_sample.cs.enc",
+        "Restored": "DES/Ecb_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Ecb_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DES/Ecb_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Ecb_Pkcs7/4_sample.wav.enc",
+        "Restored": "DES/Ecb_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Ecb_Pkcs7/5_sample.avi.enc",
+        "Restored": "DES/Ecb_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ecb",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Ecb_Iso10126/1_sample.txt.enc",
+        "Restored": "DES/Ecb_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Ecb_Iso10126/2_sample.cs.enc",
+        "Restored": "DES/Ecb_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Ecb_Iso10126/3_sample.bmp.enc",
+        "Restored": "DES/Ecb_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Ecb_Iso10126/4_sample.wav.enc",
+        "Restored": "DES/Ecb_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Ecb_Iso10126/5_sample.avi.enc",
+        "Restored": "DES/Ecb_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cbc",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "E06A8B353901AFF4",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Cbc_Zeros/1_sample.txt.enc",
+        "Restored": "DES/Cbc_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Cbc_Zeros/2_sample.cs.enc",
+        "Restored": "DES/Cbc_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Cbc_Zeros/3_sample.bmp.enc",
+        "Restored": "DES/Cbc_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Cbc_Zeros/4_sample.wav.enc",
+        "Restored": "DES/Cbc_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Cbc_Zeros/5_sample.avi.enc",
+        "Restored": "DES/Cbc_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cbc",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "3BF7DE83FA9B7458",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Cbc_AnsiX923/1_sample.txt.enc",
+        "Restored": "DES/Cbc_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Cbc_AnsiX923/2_sample.cs.enc",
+        "Restored": "DES/Cbc_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Cbc_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DES/Cbc_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Cbc_AnsiX923/4_sample.wav.enc",
+        "Restored": "DES/Cbc_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Cbc_AnsiX923/5_sample.avi.enc",
+        "Restored": "DES/Cbc_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cbc",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "5308F11088252BBA",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Cbc_Pkcs7/1_sample.txt.enc",
+        "Restored": "DES/Cbc_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Cbc_Pkcs7/2_sample.cs.enc",
+        "Restored": "DES/Cbc_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Cbc_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DES/Cbc_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Cbc_Pkcs7/4_sample.wav.enc",
+        "Restored": "DES/Cbc_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Cbc_Pkcs7/5_sample.avi.enc",
+        "Restored": "DES/Cbc_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cbc",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "BF5865E83AE83C45",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Cbc_Iso10126/1_sample.txt.enc",
+        "Restored": "DES/Cbc_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Cbc_Iso10126/2_sample.cs.enc",
+        "Restored": "DES/Cbc_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Cbc_Iso10126/3_sample.bmp.enc",
+        "Restored": "DES/Cbc_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Cbc_Iso10126/4_sample.wav.enc",
+        "Restored": "DES/Cbc_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Cbc_Iso10126/5_sample.avi.enc",
+        "Restored": "DES/Cbc_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Pcbc",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "CFC2A7622BF06315",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Pcbc_Zeros/1_sample.txt.enc",
+        "Restored": "DES/Pcbc_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Pcbc_Zeros/2_sample.cs.enc",
+        "Restored": "DES/Pcbc_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Pcbc_Zeros/3_sample.bmp.enc",
+        "Restored": "DES/Pcbc_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Pcbc_Zeros/4_sample.wav.enc",
+        "Restored": "DES/Pcbc_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Pcbc_Zeros/5_sample.avi.enc",
+        "Restored": "DES/Pcbc_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Pcbc",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "B18067D36A3EC16A",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Pcbc_AnsiX923/1_sample.txt.enc",
+        "Restored": "DES/Pcbc_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Pcbc_AnsiX923/2_sample.cs.enc",
+        "Restored": "DES/Pcbc_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Pcbc_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DES/Pcbc_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Pcbc_AnsiX923/4_sample.wav.enc",
+        "Restored": "DES/Pcbc_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Pcbc_AnsiX923/5_sample.avi.enc",
+        "Restored": "DES/Pcbc_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Pcbc",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "AF485FC1DD0D07CE",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Pcbc_Pkcs7/1_sample.txt.enc",
+        "Restored": "DES/Pcbc_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Pcbc_Pkcs7/2_sample.cs.enc",
+        "Restored": "DES/Pcbc_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Pcbc_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DES/Pcbc_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Pcbc_Pkcs7/4_sample.wav.enc",
+        "Restored": "DES/Pcbc_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Pcbc_Pkcs7/5_sample.avi.enc",
+        "Restored": "DES/Pcbc_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Pcbc",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "5EE565CD20F51090",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Pcbc_Iso10126/1_sample.txt.enc",
+        "Restored": "DES/Pcbc_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Pcbc_Iso10126/2_sample.cs.enc",
+        "Restored": "DES/Pcbc_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Pcbc_Iso10126/3_sample.bmp.enc",
+        "Restored": "DES/Pcbc_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Pcbc_Iso10126/4_sample.wav.enc",
+        "Restored": "DES/Pcbc_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Pcbc_Iso10126/5_sample.avi.enc",
+        "Restored": "DES/Pcbc_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cfb",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "B876D28FE61308A4",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Cfb_Zeros/1_sample.txt.enc",
+        "Restored": "DES/Cfb_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Cfb_Zeros/2_sample.cs.enc",
+        "Restored": "DES/Cfb_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Cfb_Zeros/3_sample.bmp.enc",
+        "Restored": "DES/Cfb_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Cfb_Zeros/4_sample.wav.enc",
+        "Restored": "DES/Cfb_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Cfb_Zeros/5_sample.avi.enc",
+        "Restored": "DES/Cfb_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cfb",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "3E6BF674AE9E21B9",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Cfb_AnsiX923/1_sample.txt.enc",
+        "Restored": "DES/Cfb_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Cfb_AnsiX923/2_sample.cs.enc",
+        "Restored": "DES/Cfb_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Cfb_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DES/Cfb_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Cfb_AnsiX923/4_sample.wav.enc",
+        "Restored": "DES/Cfb_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Cfb_AnsiX923/5_sample.avi.enc",
+        "Restored": "DES/Cfb_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cfb",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "93665EBAE8DDC84B",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Cfb_Pkcs7/1_sample.txt.enc",
+        "Restored": "DES/Cfb_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Cfb_Pkcs7/2_sample.cs.enc",
+        "Restored": "DES/Cfb_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Cfb_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DES/Cfb_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Cfb_Pkcs7/4_sample.wav.enc",
+        "Restored": "DES/Cfb_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Cfb_Pkcs7/5_sample.avi.enc",
+        "Restored": "DES/Cfb_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Cfb",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "0284406A19470719",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Cfb_Iso10126/1_sample.txt.enc",
+        "Restored": "DES/Cfb_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Cfb_Iso10126/2_sample.cs.enc",
+        "Restored": "DES/Cfb_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Cfb_Iso10126/3_sample.bmp.enc",
+        "Restored": "DES/Cfb_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Cfb_Iso10126/4_sample.wav.enc",
+        "Restored": "DES/Cfb_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Cfb_Iso10126/5_sample.avi.enc",
+        "Restored": "DES/Cfb_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ofb",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "A0F886BA4D802961",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Ofb_Zeros/1_sample.txt.enc",
+        "Restored": "DES/Ofb_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Ofb_Zeros/2_sample.cs.enc",
+        "Restored": "DES/Ofb_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Ofb_Zeros/3_sample.bmp.enc",
+        "Restored": "DES/Ofb_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Ofb_Zeros/4_sample.wav.enc",
+        "Restored": "DES/Ofb_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Ofb_Zeros/5_sample.avi.enc",
+        "Restored": "DES/Ofb_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ofb",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "5F6C9EF1478ECC4C",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Ofb_AnsiX923/1_sample.txt.enc",
+        "Restored": "DES/Ofb_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Ofb_AnsiX923/2_sample.cs.enc",
+        "Restored": "DES/Ofb_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Ofb_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DES/Ofb_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Ofb_AnsiX923/4_sample.wav.enc",
+        "Restored": "DES/Ofb_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Ofb_AnsiX923/5_sample.avi.enc",
+        "Restored": "DES/Ofb_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ofb",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "9264E71E6EB40781",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Ofb_Pkcs7/1_sample.txt.enc",
+        "Restored": "DES/Ofb_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Ofb_Pkcs7/2_sample.cs.enc",
+        "Restored": "DES/Ofb_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Ofb_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DES/Ofb_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Ofb_Pkcs7/4_sample.wav.enc",
+        "Restored": "DES/Ofb_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Ofb_Pkcs7/5_sample.avi.enc",
+        "Restored": "DES/Ofb_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ofb",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "7714B9E5CA3CA811",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Ofb_Iso10126/1_sample.txt.enc",
+        "Restored": "DES/Ofb_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Ofb_Iso10126/2_sample.cs.enc",
+        "Restored": "DES/Ofb_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Ofb_Iso10126/3_sample.bmp.enc",
+        "Restored": "DES/Ofb_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Ofb_Iso10126/4_sample.wav.enc",
+        "Restored": "DES/Ofb_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Ofb_Iso10126/5_sample.avi.enc",
+        "Restored": "DES/Ofb_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ctr",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "B0235BE5B283D3AA",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Ctr_Zeros/1_sample.txt.enc",
+        "Restored": "DES/Ctr_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Ctr_Zeros/2_sample.cs.enc",
+        "Restored": "DES/Ctr_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Ctr_Zeros/3_sample.bmp.enc",
+        "Restored": "DES/Ctr_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Ctr_Zeros/4_sample.wav.enc",
+        "Restored": "DES/Ctr_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Ctr_Zeros/5_sample.avi.enc",
+        "Restored": "DES/Ctr_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ctr",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "75AC5772F613A956",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Ctr_AnsiX923/1_sample.txt.enc",
+        "Restored": "DES/Ctr_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Ctr_AnsiX923/2_sample.cs.enc",
+        "Restored": "DES/Ctr_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Ctr_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DES/Ctr_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Ctr_AnsiX923/4_sample.wav.enc",
+        "Restored": "DES/Ctr_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Ctr_AnsiX923/5_sample.avi.enc",
+        "Restored": "DES/Ctr_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ctr",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "04D6BD8BBEEA07F3",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Ctr_Pkcs7/1_sample.txt.enc",
+        "Restored": "DES/Ctr_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Ctr_Pkcs7/2_sample.cs.enc",
+        "Restored": "DES/Ctr_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Ctr_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DES/Ctr_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Ctr_Pkcs7/4_sample.wav.enc",
+        "Restored": "DES/Ctr_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Ctr_Pkcs7/5_sample.avi.enc",
+        "Restored": "DES/Ctr_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "Ctr",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "9D16936E0268FB9C",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/Ctr_Iso10126/1_sample.txt.enc",
+        "Restored": "DES/Ctr_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/Ctr_Iso10126/2_sample.cs.enc",
+        "Restored": "DES/Ctr_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/Ctr_Iso10126/3_sample.bmp.enc",
+        "Restored": "DES/Ctr_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/Ctr_Iso10126/4_sample.wav.enc",
+        "Restored": "DES/Ctr_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/Ctr_Iso10126/5_sample.avi.enc",
+        "Restored": "DES/Ctr_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "RandomDelta",
+    "Padding": "Zeros",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "B59563EFA011868A",
+    "DeltaHex": "A46331E792FCB07D",
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/RandomDelta_Zeros/1_sample.txt.enc",
+        "Restored": "DES/RandomDelta_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/RandomDelta_Zeros/2_sample.cs.enc",
+        "Restored": "DES/RandomDelta_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/RandomDelta_Zeros/3_sample.bmp.enc",
+        "Restored": "DES/RandomDelta_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/RandomDelta_Zeros/4_sample.wav.enc",
+        "Restored": "DES/RandomDelta_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/RandomDelta_Zeros/5_sample.avi.enc",
+        "Restored": "DES/RandomDelta_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "RandomDelta",
+    "Padding": "AnsiX923",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "8A2397436AF9FE9C",
+    "DeltaHex": "DB2011B9C02A62A1",
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/RandomDelta_AnsiX923/1_sample.txt.enc",
+        "Restored": "DES/RandomDelta_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/RandomDelta_AnsiX923/2_sample.cs.enc",
+        "Restored": "DES/RandomDelta_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/RandomDelta_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DES/RandomDelta_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/RandomDelta_AnsiX923/4_sample.wav.enc",
+        "Restored": "DES/RandomDelta_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/RandomDelta_AnsiX923/5_sample.avi.enc",
+        "Restored": "DES/RandomDelta_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "RandomDelta",
+    "Padding": "Pkcs7",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "BE1AF810DB5B2E8B",
+    "DeltaHex": "8F08C99E37130A7D",
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/RandomDelta_Pkcs7/1_sample.txt.enc",
+        "Restored": "DES/RandomDelta_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/RandomDelta_Pkcs7/2_sample.cs.enc",
+        "Restored": "DES/RandomDelta_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/RandomDelta_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DES/RandomDelta_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/RandomDelta_Pkcs7/4_sample.wav.enc",
+        "Restored": "DES/RandomDelta_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/RandomDelta_Pkcs7/5_sample.avi.enc",
+        "Restored": "DES/RandomDelta_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DES",
+    "Mode": "RandomDelta",
+    "Padding": "Iso10126",
+    "KeyHex": "133457799BBCDFF1",
+    "IvHex": "54AD526E080DFBBB",
+    "DeltaHex": "97C7147FFFCDCA7B",
+    "ArrayLength": 257,
+    "CiphertextLength": 264,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DES/RandomDelta_Iso10126/1_sample.txt.enc",
+        "Restored": "DES/RandomDelta_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DES/RandomDelta_Iso10126/2_sample.cs.enc",
+        "Restored": "DES/RandomDelta_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DES/RandomDelta_Iso10126/3_sample.bmp.enc",
+        "Restored": "DES/RandomDelta_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DES/RandomDelta_Iso10126/4_sample.wav.enc",
+        "Restored": "DES/RandomDelta_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DES/RandomDelta_Iso10126/5_sample.avi.enc",
+        "Restored": "DES/RandomDelta_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ecb",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Ecb_Zeros/1_sample.txt.enc",
+        "Restored": "DEAL/Ecb_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Ecb_Zeros/2_sample.cs.enc",
+        "Restored": "DEAL/Ecb_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Ecb_Zeros/3_sample.bmp.enc",
+        "Restored": "DEAL/Ecb_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Ecb_Zeros/4_sample.wav.enc",
+        "Restored": "DEAL/Ecb_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Ecb_Zeros/5_sample.avi.enc",
+        "Restored": "DEAL/Ecb_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ecb",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Ecb_AnsiX923/1_sample.txt.enc",
+        "Restored": "DEAL/Ecb_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Ecb_AnsiX923/2_sample.cs.enc",
+        "Restored": "DEAL/Ecb_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Ecb_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DEAL/Ecb_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Ecb_AnsiX923/4_sample.wav.enc",
+        "Restored": "DEAL/Ecb_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Ecb_AnsiX923/5_sample.avi.enc",
+        "Restored": "DEAL/Ecb_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ecb",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Ecb_Pkcs7/1_sample.txt.enc",
+        "Restored": "DEAL/Ecb_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Ecb_Pkcs7/2_sample.cs.enc",
+        "Restored": "DEAL/Ecb_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Ecb_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DEAL/Ecb_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Ecb_Pkcs7/4_sample.wav.enc",
+        "Restored": "DEAL/Ecb_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Ecb_Pkcs7/5_sample.avi.enc",
+        "Restored": "DEAL/Ecb_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ecb",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": null,
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Ecb_Iso10126/1_sample.txt.enc",
+        "Restored": "DEAL/Ecb_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Ecb_Iso10126/2_sample.cs.enc",
+        "Restored": "DEAL/Ecb_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Ecb_Iso10126/3_sample.bmp.enc",
+        "Restored": "DEAL/Ecb_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Ecb_Iso10126/4_sample.wav.enc",
+        "Restored": "DEAL/Ecb_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Ecb_Iso10126/5_sample.avi.enc",
+        "Restored": "DEAL/Ecb_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cbc",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "21837B471FEE1106CA0E8A63CF9FD4C0",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Cbc_Zeros/1_sample.txt.enc",
+        "Restored": "DEAL/Cbc_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Cbc_Zeros/2_sample.cs.enc",
+        "Restored": "DEAL/Cbc_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Cbc_Zeros/3_sample.bmp.enc",
+        "Restored": "DEAL/Cbc_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Cbc_Zeros/4_sample.wav.enc",
+        "Restored": "DEAL/Cbc_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Cbc_Zeros/5_sample.avi.enc",
+        "Restored": "DEAL/Cbc_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cbc",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "99E8972E714B3A33C00F1ACA639B8FF9",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Cbc_AnsiX923/1_sample.txt.enc",
+        "Restored": "DEAL/Cbc_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Cbc_AnsiX923/2_sample.cs.enc",
+        "Restored": "DEAL/Cbc_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Cbc_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DEAL/Cbc_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Cbc_AnsiX923/4_sample.wav.enc",
+        "Restored": "DEAL/Cbc_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Cbc_AnsiX923/5_sample.avi.enc",
+        "Restored": "DEAL/Cbc_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cbc",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "7588C9E608A64FB01E1BA78D8DDEE899",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Cbc_Pkcs7/1_sample.txt.enc",
+        "Restored": "DEAL/Cbc_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Cbc_Pkcs7/2_sample.cs.enc",
+        "Restored": "DEAL/Cbc_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Cbc_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DEAL/Cbc_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Cbc_Pkcs7/4_sample.wav.enc",
+        "Restored": "DEAL/Cbc_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Cbc_Pkcs7/5_sample.avi.enc",
+        "Restored": "DEAL/Cbc_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cbc",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "7E9354DAD1A9F022258594013A3EEBFC",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Cbc_Iso10126/1_sample.txt.enc",
+        "Restored": "DEAL/Cbc_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Cbc_Iso10126/2_sample.cs.enc",
+        "Restored": "DEAL/Cbc_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Cbc_Iso10126/3_sample.bmp.enc",
+        "Restored": "DEAL/Cbc_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Cbc_Iso10126/4_sample.wav.enc",
+        "Restored": "DEAL/Cbc_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Cbc_Iso10126/5_sample.avi.enc",
+        "Restored": "DEAL/Cbc_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Pcbc",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "08210EF9890DC7E4E5ECDC8750E27DDF",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Pcbc_Zeros/1_sample.txt.enc",
+        "Restored": "DEAL/Pcbc_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Pcbc_Zeros/2_sample.cs.enc",
+        "Restored": "DEAL/Pcbc_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Pcbc_Zeros/3_sample.bmp.enc",
+        "Restored": "DEAL/Pcbc_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Pcbc_Zeros/4_sample.wav.enc",
+        "Restored": "DEAL/Pcbc_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Pcbc_Zeros/5_sample.avi.enc",
+        "Restored": "DEAL/Pcbc_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Pcbc",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "0EAFF9192FF1723AB08D643DB2F240C1",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Pcbc_AnsiX923/1_sample.txt.enc",
+        "Restored": "DEAL/Pcbc_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Pcbc_AnsiX923/2_sample.cs.enc",
+        "Restored": "DEAL/Pcbc_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Pcbc_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DEAL/Pcbc_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Pcbc_AnsiX923/4_sample.wav.enc",
+        "Restored": "DEAL/Pcbc_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Pcbc_AnsiX923/5_sample.avi.enc",
+        "Restored": "DEAL/Pcbc_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Pcbc",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "1BC479A0E864AF40E5C01039641E3C27",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Pcbc_Pkcs7/1_sample.txt.enc",
+        "Restored": "DEAL/Pcbc_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Pcbc_Pkcs7/2_sample.cs.enc",
+        "Restored": "DEAL/Pcbc_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Pcbc_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DEAL/Pcbc_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Pcbc_Pkcs7/4_sample.wav.enc",
+        "Restored": "DEAL/Pcbc_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Pcbc_Pkcs7/5_sample.avi.enc",
+        "Restored": "DEAL/Pcbc_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Pcbc",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "898521EE78A0D93139781451A5E4D9A5",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Pcbc_Iso10126/1_sample.txt.enc",
+        "Restored": "DEAL/Pcbc_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Pcbc_Iso10126/2_sample.cs.enc",
+        "Restored": "DEAL/Pcbc_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Pcbc_Iso10126/3_sample.bmp.enc",
+        "Restored": "DEAL/Pcbc_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Pcbc_Iso10126/4_sample.wav.enc",
+        "Restored": "DEAL/Pcbc_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Pcbc_Iso10126/5_sample.avi.enc",
+        "Restored": "DEAL/Pcbc_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cfb",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "5D67AFDFFD4DAFE29BF9BDD5C2B4B1AD",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Cfb_Zeros/1_sample.txt.enc",
+        "Restored": "DEAL/Cfb_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Cfb_Zeros/2_sample.cs.enc",
+        "Restored": "DEAL/Cfb_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Cfb_Zeros/3_sample.bmp.enc",
+        "Restored": "DEAL/Cfb_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Cfb_Zeros/4_sample.wav.enc",
+        "Restored": "DEAL/Cfb_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Cfb_Zeros/5_sample.avi.enc",
+        "Restored": "DEAL/Cfb_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cfb",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "49DBF43E34FAA8960960C6E34FBC8309",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Cfb_AnsiX923/1_sample.txt.enc",
+        "Restored": "DEAL/Cfb_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Cfb_AnsiX923/2_sample.cs.enc",
+        "Restored": "DEAL/Cfb_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Cfb_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DEAL/Cfb_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Cfb_AnsiX923/4_sample.wav.enc",
+        "Restored": "DEAL/Cfb_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Cfb_AnsiX923/5_sample.avi.enc",
+        "Restored": "DEAL/Cfb_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cfb",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "D7238BE6C07378E607944F093BE82D36",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Cfb_Pkcs7/1_sample.txt.enc",
+        "Restored": "DEAL/Cfb_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Cfb_Pkcs7/2_sample.cs.enc",
+        "Restored": "DEAL/Cfb_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Cfb_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DEAL/Cfb_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Cfb_Pkcs7/4_sample.wav.enc",
+        "Restored": "DEAL/Cfb_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Cfb_Pkcs7/5_sample.avi.enc",
+        "Restored": "DEAL/Cfb_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Cfb",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "0FD50B2B319C49FCE86659E085C420B3",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Cfb_Iso10126/1_sample.txt.enc",
+        "Restored": "DEAL/Cfb_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Cfb_Iso10126/2_sample.cs.enc",
+        "Restored": "DEAL/Cfb_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Cfb_Iso10126/3_sample.bmp.enc",
+        "Restored": "DEAL/Cfb_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Cfb_Iso10126/4_sample.wav.enc",
+        "Restored": "DEAL/Cfb_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Cfb_Iso10126/5_sample.avi.enc",
+        "Restored": "DEAL/Cfb_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ofb",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "1A9FF965DC0105BCDEE948F76843EE47",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Ofb_Zeros/1_sample.txt.enc",
+        "Restored": "DEAL/Ofb_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Ofb_Zeros/2_sample.cs.enc",
+        "Restored": "DEAL/Ofb_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Ofb_Zeros/3_sample.bmp.enc",
+        "Restored": "DEAL/Ofb_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Ofb_Zeros/4_sample.wav.enc",
+        "Restored": "DEAL/Ofb_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Ofb_Zeros/5_sample.avi.enc",
+        "Restored": "DEAL/Ofb_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ofb",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "8FD9C6E5CABAD603AF0B1689D59BAEBB",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Ofb_AnsiX923/1_sample.txt.enc",
+        "Restored": "DEAL/Ofb_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Ofb_AnsiX923/2_sample.cs.enc",
+        "Restored": "DEAL/Ofb_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Ofb_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DEAL/Ofb_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Ofb_AnsiX923/4_sample.wav.enc",
+        "Restored": "DEAL/Ofb_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Ofb_AnsiX923/5_sample.avi.enc",
+        "Restored": "DEAL/Ofb_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ofb",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "BCD6688F7D087CBE19F9A9B36EB31BA7",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Ofb_Pkcs7/1_sample.txt.enc",
+        "Restored": "DEAL/Ofb_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Ofb_Pkcs7/2_sample.cs.enc",
+        "Restored": "DEAL/Ofb_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Ofb_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DEAL/Ofb_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Ofb_Pkcs7/4_sample.wav.enc",
+        "Restored": "DEAL/Ofb_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Ofb_Pkcs7/5_sample.avi.enc",
+        "Restored": "DEAL/Ofb_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ofb",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "1259CDFE331E3D2015F1C57FD40D25AF",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Ofb_Iso10126/1_sample.txt.enc",
+        "Restored": "DEAL/Ofb_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Ofb_Iso10126/2_sample.cs.enc",
+        "Restored": "DEAL/Ofb_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Ofb_Iso10126/3_sample.bmp.enc",
+        "Restored": "DEAL/Ofb_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Ofb_Iso10126/4_sample.wav.enc",
+        "Restored": "DEAL/Ofb_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Ofb_Iso10126/5_sample.avi.enc",
+        "Restored": "DEAL/Ofb_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ctr",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "CAE6A015E51C742833CF1B7F88793B0A",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Ctr_Zeros/1_sample.txt.enc",
+        "Restored": "DEAL/Ctr_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Ctr_Zeros/2_sample.cs.enc",
+        "Restored": "DEAL/Ctr_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Ctr_Zeros/3_sample.bmp.enc",
+        "Restored": "DEAL/Ctr_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Ctr_Zeros/4_sample.wav.enc",
+        "Restored": "DEAL/Ctr_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Ctr_Zeros/5_sample.avi.enc",
+        "Restored": "DEAL/Ctr_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ctr",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "CA9AB4ED6D10C9D006772F2CACCCE564",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Ctr_AnsiX923/1_sample.txt.enc",
+        "Restored": "DEAL/Ctr_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Ctr_AnsiX923/2_sample.cs.enc",
+        "Restored": "DEAL/Ctr_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Ctr_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DEAL/Ctr_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Ctr_AnsiX923/4_sample.wav.enc",
+        "Restored": "DEAL/Ctr_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Ctr_AnsiX923/5_sample.avi.enc",
+        "Restored": "DEAL/Ctr_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ctr",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "34C1B5EEC44E9CFB090414D79B9A9E41",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Ctr_Pkcs7/1_sample.txt.enc",
+        "Restored": "DEAL/Ctr_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Ctr_Pkcs7/2_sample.cs.enc",
+        "Restored": "DEAL/Ctr_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Ctr_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DEAL/Ctr_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Ctr_Pkcs7/4_sample.wav.enc",
+        "Restored": "DEAL/Ctr_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Ctr_Pkcs7/5_sample.avi.enc",
+        "Restored": "DEAL/Ctr_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "Ctr",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "F6EDF8EA17F6A0CDCF44A9E1F6046485",
+    "DeltaHex": null,
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/Ctr_Iso10126/1_sample.txt.enc",
+        "Restored": "DEAL/Ctr_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/Ctr_Iso10126/2_sample.cs.enc",
+        "Restored": "DEAL/Ctr_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/Ctr_Iso10126/3_sample.bmp.enc",
+        "Restored": "DEAL/Ctr_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/Ctr_Iso10126/4_sample.wav.enc",
+        "Restored": "DEAL/Ctr_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/Ctr_Iso10126/5_sample.avi.enc",
+        "Restored": "DEAL/Ctr_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "RandomDelta",
+    "Padding": "Zeros",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "2FA7E0ADA2B329821BF26A6D3E92C9B9",
+    "DeltaHex": "50496042359594B05EAC9D21C6914E4B",
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/RandomDelta_Zeros/1_sample.txt.enc",
+        "Restored": "DEAL/RandomDelta_Zeros/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/RandomDelta_Zeros/2_sample.cs.enc",
+        "Restored": "DEAL/RandomDelta_Zeros/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/RandomDelta_Zeros/3_sample.bmp.enc",
+        "Restored": "DEAL/RandomDelta_Zeros/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/RandomDelta_Zeros/4_sample.wav.enc",
+        "Restored": "DEAL/RandomDelta_Zeros/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/RandomDelta_Zeros/5_sample.avi.enc",
+        "Restored": "DEAL/RandomDelta_Zeros/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "RandomDelta",
+    "Padding": "AnsiX923",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "52E3B24F24B6E2039C8A24E7DB210DBA",
+    "DeltaHex": "2C77BE3624B09099122F4EF51608BC8B",
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/RandomDelta_AnsiX923/1_sample.txt.enc",
+        "Restored": "DEAL/RandomDelta_AnsiX923/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/RandomDelta_AnsiX923/2_sample.cs.enc",
+        "Restored": "DEAL/RandomDelta_AnsiX923/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/RandomDelta_AnsiX923/3_sample.bmp.enc",
+        "Restored": "DEAL/RandomDelta_AnsiX923/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/RandomDelta_AnsiX923/4_sample.wav.enc",
+        "Restored": "DEAL/RandomDelta_AnsiX923/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/RandomDelta_AnsiX923/5_sample.avi.enc",
+        "Restored": "DEAL/RandomDelta_AnsiX923/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "RandomDelta",
+    "Padding": "Pkcs7",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "A41F1B5BE079949A665DA5AA71ADD53D",
+    "DeltaHex": "9FE3F44FD21726A252183DF567EDEC95",
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/RandomDelta_Pkcs7/1_sample.txt.enc",
+        "Restored": "DEAL/RandomDelta_Pkcs7/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/RandomDelta_Pkcs7/2_sample.cs.enc",
+        "Restored": "DEAL/RandomDelta_Pkcs7/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/RandomDelta_Pkcs7/3_sample.bmp.enc",
+        "Restored": "DEAL/RandomDelta_Pkcs7/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/RandomDelta_Pkcs7/4_sample.wav.enc",
+        "Restored": "DEAL/RandomDelta_Pkcs7/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/RandomDelta_Pkcs7/5_sample.avi.enc",
+        "Restored": "DEAL/RandomDelta_Pkcs7/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  },
+  {
+    "Algorithm": "DEAL",
+    "Mode": "RandomDelta",
+    "Padding": "Iso10126",
+    "KeyHex": "000102030405060708090A0B0C0D0E0F",
+    "IvHex": "CE9942BB05B2D9B3E224D0C60AE52864",
+    "DeltaHex": "5A115633146CB78CF87908C83C9E3279",
+    "ArrayLength": 257,
+    "CiphertextLength": 272,
+    "Files": [
+      {
+        "Source": "inputs/sample.txt",
+        "OriginalLength": 101,
+        "Ciphertext": "DEAL/RandomDelta_Iso10126/1_sample.txt.enc",
+        "Restored": "DEAL/RandomDelta_Iso10126/restored_1_sample.txt",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.cs",
+        "OriginalLength": 51,
+        "Ciphertext": "DEAL/RandomDelta_Iso10126/2_sample.cs.enc",
+        "Restored": "DEAL/RandomDelta_Iso10126/restored_2_sample.cs",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.bmp",
+        "OriginalLength": 70,
+        "Ciphertext": "DEAL/RandomDelta_Iso10126/3_sample.bmp.enc",
+        "Restored": "DEAL/RandomDelta_Iso10126/restored_3_sample.bmp",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample-legacy-10ms.wav",
+        "OriginalLength": 204,
+        "Ciphertext": "DEAL/RandomDelta_Iso10126/4_sample.wav.enc",
+        "Restored": "DEAL/RandomDelta_Iso10126/restored_4_sample.wav",
+        "Equal": true
+      },
+      {
+        "Source": "inputs/sample.avi",
+        "OriginalLength": 272,
+        "Ciphertext": "DEAL/RandomDelta_Iso10126/5_sample.avi.enc",
+        "Restored": "DEAL/RandomDelta_Iso10126/restored_5_sample.avi",
+        "Equal": true
+      }
+    ]
+  }
+]
